@@ -1,7 +1,9 @@
 /**
+ * Problem link -> https://www.codingame.com/training/easy/power-of-thor-episode-1
+ * 
  * Auto-generated code below aims at helping you parse
  * the standard input according to the problem statement.
- * ---
+ *
  * Hint: You can use the debug stream to print initialTX and initialTY, if Thor seems not follow your orders.
  **/
 
