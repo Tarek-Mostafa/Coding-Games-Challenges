@@ -1,6 +1,5 @@
 /**
- * Auto-generated code below aims at helping you parse
- * the standard input according to the problem statement.
+ * Problem link here on Coding Game -> https://www.codingame.com/training/easy/temperatures
  **/
 
 var n = parseInt(readline()); // the number of temperatures to analyse
