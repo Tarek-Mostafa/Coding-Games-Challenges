@@ -44,7 +44,7 @@ function nearestZero(arr) {
             // Regardless whether there are negative number in the array or not
             if(currentJ < currentI && currentJ > 0) { min = currentJ; } 
                 
-                else {
+            else {
                 // If all numbers in the array are negative only
                 if(firstItem < 0) {
                     if(currentJ > firstItem) {
